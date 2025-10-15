@@ -3,19 +3,20 @@
     "id": 1,
     "name": "Basic",
     "duration": "1 Month",
-    "price": 30,
+    "price": "$ 30USD",
     "description": "One-on-one customized workout sessions with certified trainers.",
     "features": [
       "Access to gym floor",
       "Locker facility",
-      "1 complimentary fitness assessment"
+      "1 complimentary fitness"
     ]
   },
   {
     "id": 2,
     "name": "Standard",
     "duration": "3 Months",
-    "price": 80,
+    "price": "$ 70USD",
+    "popular":true,
     "description": "A popular choice for fitness enthusiasts with full access, diet consultation, and extra perks.",
     "features": [
       "Access to gym floor",
@@ -28,7 +29,7 @@
     "id": 3,
     "name": "Premium",
     "duration": "6 Months",
-    "price": 150,
+    "price": "$150 USD",
     "description": "Perfect for beginners who want short-term access to essential gym equipment and facilities.",
     "features": [
       "Access to gym floor",

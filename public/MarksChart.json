@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Shahrukh Alam Sardar",
+    "marks": {
+      "Mathematics": 85,
+      "English": 78,
+      "Science": 90,
+      "Computer": 88
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ayesha Rahman",
+    "marks": {
+      "Mathematics": 92,
+      "English": 81,
+      "Science": 89,
+      "Computer": 95
+    }
+  },
+  {
+    "id": 3,
+    "name": "Rahim Uddin",
+    "marks": {
+      "Mathematics": 76,
+      "English": 72,
+      "Science": 80,
+      "Computer": 70
+    }
+  },
+  {
+    "id": 4,
+    "name": "Farhana Akter",
+    "marks": {
+      "Mathematics": 88,
+      "English": 90,
+      "Science": 86,
+      "Computer": 91
+    }
+  },
+  {
+    "id": 5,
+    "name": "Imran Hossain",
+    "marks": {
+      "Mathematics": 65,
+      "English": 70,
+      "Science": 68,
+      "Computer": 75
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mitu Chowdhury",
+    "marks": {
+      "Mathematics": 95,
+      "English": 88,
+      "Science": 92,
+      "Computer": 97
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sabbir Khan",
+    "marks": {
+      "Mathematics": 79,
+      "English": 83,
+      "Science": 77,
+      "Computer": 82
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nadia Islam",
+    "marks": {
+      "Mathematics": 91,
+      "English": 87,
+      "Science": 94,
+      "Computer": 90
+    }
+  },
+  {
+    "id": 9,
+    "name": "Tanvir Hasan",
+    "marks": {
+      "Mathematics": 73,
+      "English": 68,
+      "Science": 75,
+      "Computer": 80
+    }
+  },
+  {
+    "id": 10,
+    "name": "Rima Khatun",
+    "marks": {
+      "Mathematics": 89,
+      "English": 85,
+      "Science": 88,
+      "Computer": 92
+    }
+  }
+]

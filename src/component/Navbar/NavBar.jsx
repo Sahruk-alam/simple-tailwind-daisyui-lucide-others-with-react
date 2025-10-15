@@ -34,7 +34,7 @@ const links=   navbarItems.map(route => <li className='md:mr-10 px-4 hover:text-
                href={route.path}>{route.name}</a></li>)
     return (
         <div className='flex justify-between p-2  mx-8'>
-         <span className='flex  cursor-pointer' onClick={()=>setOpen(!open)}>
+         <span className='flex cursor-pointer' onClick={()=>setOpen(!open)}>
           {
             open?<X className='md:hidden'></X>:<Menu className='md:hidden'></Menu>
           }
@@ -43,7 +43,7 @@ const links=   navbarItems.map(route => <li className='md:mr-10 px-4 hover:text-
             {links}
           </ul>
           
-          <h3 className='ml-4'>My navbar</h3>
+          <h3 className='ml-4 '>My navbar</h3>
          </span>
             <ul className='md:flex hidden'>
                {
